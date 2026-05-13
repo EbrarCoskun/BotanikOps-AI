@@ -1,4 +1,7 @@
 # BotanikOps-AI
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 # 🌿 BotanikOps AI Backend
 
 Bu proje, bir botanik mağazasının operasyonel süreçlerini yöneten ve **Gemini 3.1 Flash-Lite** yapay zeka modelini kullanan akıllı bir backend sistemidir.
